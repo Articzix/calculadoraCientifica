@@ -1,0 +1,15 @@
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net6.0\CalculadoraCientifica.exe
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net6.0\CalculadoraCientifica.deps.json
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net6.0\CalculadoraCientifica.runtimeconfig.json
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net6.0\CalculadoraCientifica.dll
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net6.0\CalculadoraCientifica.pdb
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net6.0\CalculadoraCientifica.csproj.AssemblyReference.cache
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net6.0\CalculadoraCientifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net6.0\CalculadoraCientifica.AssemblyInfoInputs.cache
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net6.0\CalculadoraCientifica.AssemblyInfo.cs
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net6.0\CalculadoraCientifica.csproj.CoreCompileInputs.cache
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net6.0\CalculadoraCientifica.dll
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net6.0\refint\CalculadoraCientifica.dll
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net6.0\CalculadoraCientifica.pdb
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net6.0\CalculadoraCientifica.genruntimeconfig.cache
+C:\Users\diego.p.campos\Documents\Projects\calculadoraCientifica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net6.0\ref\CalculadoraCientifica.dll
